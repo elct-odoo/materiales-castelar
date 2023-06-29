@@ -35,7 +35,8 @@ Steps I took:
 
 5.) This step I am going to install the applications that I think will be necessary for this task in my fresh database
 
-Apps: Inventory, Receipts, Purchase
+Apps: Inventory, Purchase
+Dependencies: "stock", "purchase"
 
 6.) First I need to get a better understanding of what a purchase order actually is.
 
