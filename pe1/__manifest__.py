@@ -1,7 +1,7 @@
 {
     "name": "Quantity Manager",
     "license": "OPL-1",
-    "depends": ["base"],
+    "depends": ["stock","purchase"],
     "category": "Inventory/",
     "auto_install": True,
 }
