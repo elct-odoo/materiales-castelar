@@ -5,7 +5,8 @@ Steps I took:
 3.) set password and login for db
 3.) created a module under the inventory category named Quantity Manager
 4.) Now since I have a base to work from I will try to understand the task by going through the work flow
-5.)
+5.) This step I am going to install the applications that I think will be necessary for this task in my fresh database
+Apps: Inventory, Receipts, Purchase
 
 
 
