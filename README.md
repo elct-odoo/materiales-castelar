@@ -38,18 +38,12 @@ odoo/addons/stock/models
 /stock_picking.py
 
 I think I am going to use the @api constrains to throw the quantity validation error
+
 Whenever you're on api constrains we want to check the model of those field names directly
 
 
-
-
-
-source control: 
+Source Control: 
 
 created a local pe1 branch and set a remote upstream to origin pe1 will push remote changes to origin pe1 upon milestones
 
 main will be saved for pull request at EOD
-
-**
-the only thing I am pushing directly to main is this read me
-**
