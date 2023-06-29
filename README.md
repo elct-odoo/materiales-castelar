@@ -53,7 +53,10 @@ Button Validate is in Stock.Picking (Transfers) Makes sense since stock.picking 
 
 Let's try to overwrite this button in the model.
 
-Next step is to find this button validate in the source code
+Next step is to find this button validate in the source code: 
+
+odoo/addons/stock/models
+/stock_picking.py
 
 
 
