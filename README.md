@@ -20,7 +20,7 @@ Workflow:
 3. Warning should appear and the user must enter the correct quantity (equal or smaller than demand)
 
 4. This will be tested in all the different warehouses
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
 Steps I took:
 
 1.) Panic
@@ -36,6 +36,8 @@ Steps I took:
 5.) This step I am going to install the applications that I think will be necessary for this task in my fresh database
 
 Apps: Inventory, Receipts, Purchase
+
+6.) First I need to get a better understanding of what a purchase order actually is.
 
 
 
