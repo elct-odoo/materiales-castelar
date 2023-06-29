@@ -15,3 +15,6 @@ source control:
 
 created a local pe1 branch and set a remote upstream to origin pe1 will push remote changes to origin pe1 upon milestones
 main will be saved for pull request at EOD
+**
+the only thing I am pushing directly to main is this read me
+**
