@@ -39,6 +39,22 @@ Apps: Inventory, Receipts, Purchase
 
 6.) First I need to get a better understanding of what a purchase order actually is.
 
+7.) What currently happens when you enter a quantity larger than the demand? This is what we need to alter.
+
+8.) After doing some testing it looks like after your create a purchase order it creates a receipt throuhg the inventory application
+
+9.) Step 7 -> Lets test this:
+
+Currently when you validate after making the 'Done' quantity larger than the demand it successfully validates. 
+
+10.) Validate Button -> Where is this?
+
+Button Validate is in Stock.Picking (Transfers) Makes sense since stock.picking is the main object for Internal moves
+
+Let's try to overwrite this button in the model.
+
+Next step is to find this button validate in the source code
+
 
 
 
